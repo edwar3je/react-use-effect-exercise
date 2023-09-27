@@ -1,0 +1,31 @@
+.button-container {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    gap: 10px;
+}
+
+.shuffle-button {
+    height: 30px;
+    width: 150px;
+    background-color: #ff3322;
+    color: #000000;
+    font-size: 15px;
+    font-weight: bold;
+    border-radius: 15px;
+}
+
+.draw-button {
+    height: 30px;
+    width: 150px;
+    background-color: #000000;
+    color: #ff3322;
+    font-size: 15px;
+    font-weight: bold;
+    border-radius: 15px;
+}
+
+.card-container {
+    margin: 40px;
+}
